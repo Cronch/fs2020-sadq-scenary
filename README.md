@@ -9,7 +9,7 @@ Always give credit to the author if publishing information related to this mod o
 
 Real life location: https://www.bing.com/maps?osid=3acd42ed-cd5e-4cf1-af5f-d8d9bb288754&cp=-34.706266~-58.248446&lvl=16&style=h&v=2&sV=2&form=S00027
 
-Latest release download link: https://github.com/Cronch/fs2020-saqu-scenary/releases/download/0.2.0/saqu-ezp-agnalim-0.2.0.zip
+Latest release download link: https://github.com/Cronch/fs2020-sadq-scenary/releases/download/0.1.0/agnalim-trq-0.1.0.zip
 
 Installation:
 1) Download zip file
