@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Flight Simulator 2020 - Aerodromo Quilmes IMPA TRQ - Argentina - Buenos Aires
 
-You can use the [editor on GitHub](https://github.com/Cronch/fs2020-sadq-scenary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Free to use airport.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Author: Cronch - Agnalim**
 
-### Markdown
+**Always** give credit to the author if publishing information related to this mod on other places. Thank you!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Real life location:** [Bings map](https://www.bing.com/maps?osid=3acd42ed-cd5e-4cf1-af5f-d8d9bb288754&cp=-34.706266~-58.248446&lvl=16&style=h&v=2&sV=2&form=S00027).
 
-```markdown
-Syntax highlighted code block
+**Latest release download link:** [Release](https://github.com/Cronch/fs2020-sadq-scenary/releases/download/0.1.0/agnalim-trq-0.1.0.zip). 
 
-# Header 1
-## Header 2
-### Header 3
+### Installation:
 
-- Bulleted
-- List
+1. Download zip file
+2. Extract it
+3. Move folder "agnalim-airport-saqu-ezpeleta" to your MSFS Community folder (just like any other scenary or addon)
 
-1. Numbered
-2. List
+More fixes and scenarios are coming!
 
-**Bold** and _Italic_ and `Code` text
+If you know this airstrip, please share pictures and any other kind of information so we can keep improving it. Also you can create issues so we can keep track of things that need to be fixed
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cronch/fs2020-sadq-scenary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**If you like my work:** [Donate](https://paypal.me/GastonLeonardoG). 
