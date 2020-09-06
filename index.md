@@ -14,7 +14,7 @@ Free to use airport.
 
 1. Download zip file
 2. Extract it
-3. Move folder "agnalim-airport-saqu-ezpeleta" to your MSFS Community folder (just like any other scenary or addon)
+3. Move folder "agnalim-trq" to your MSFS Community folder (just like any other scenary or addon)
 
 More fixes and scenarios are coming!
 
